@@ -509,7 +509,7 @@ function App() {
       <div className="page-wrapper">
         <section className="date-map">
           <header className="hero">
-                      <h1>Tracing Our Binondo Evening Date</h1>
+                      <h1>Tracing Our Binondo Date</h1>
           <div className="hero-details">
             <div className="detail-tile">
               <strong>📅 February 9, 2026 · 3:00 PM — 7:00 PM</strong>
