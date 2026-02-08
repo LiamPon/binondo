@@ -13,19 +13,19 @@ function App() {
     {
       title: 'Kokee Bakery',
       time: '3:30 PM – 3:40 PM',
-      activity: 'Buy Jade Buns',
+      activity: 'Buy jade buns',
       image: '/images/kokee.jpg',
     },
     {
       title: "Wong Kei Sugarcane Juice",
       time: '3:45 PM – 3:55 PM',
-      activity: 'Buy Sugarcane Juice & take a photo by the old TV',
+      activity: 'Buy sugarcane juice & take a photo by the old TV',
       image: '/images/wong.jpg',
     },
     {
       title: "Lord Stow's Bakery",
       time: '4:00 PM – 4:15 PM',
-      activity: 'Buy Egg Tart',
+      activity: 'Buy egg tart',
       image: '/images/lord.jpg',
     },
     {
