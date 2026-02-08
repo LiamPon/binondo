@@ -7,37 +7,37 @@ function App() {
     {
       title: 'Binondo Church',
       time: '3:00 PM – 3:15 PM',
-      activity: 'Pray together',
+      activity: 'Pray together.',
       image: '/images/binondo.jpg',
     },
     {
       title: 'Kokee Bakery',
       time: '3:30 PM – 3:40 PM',
-      activity: 'Buy jade buns',
+      activity: 'Buy jade buns.',
       image: '/images/kokee.jpg',
     },
     {
       title: "Wong Kei Sugarcane Juice",
       time: '3:45 PM – 3:55 PM',
-      activity: 'Buy sugarcane juice & take a photo by the old TV',
+      activity: 'Buy sugarcane juice & take a photo of ourselves on the old TV.',
       image: '/images/wong.jpg',
     },
     {
       title: "Lord Stow's Bakery",
       time: '4:00 PM – 4:15 PM',
-      activity: 'Buy egg tart',
+      activity: 'Buy egg tart.',
       image: '/images/lord.jpg',
     },
     {
       title: 'Lao Niang',
       time: '4:30 PM – 5:15 PM',
-      activity: 'Dinner date',
+      activity: 'Dinner date.',
       image: '/images/lao.jpg',
     },
     {
       title: 'Beanstro',
-      time: '5:50 PM – 6:30 PM',
-      activity: 'Cafe date',
+      time: '5:30 PM – 6:30 PM',
+      activity: 'Cafe date.',
       image: '/images/beanstro.png',
     },
   ];
@@ -509,7 +509,7 @@ function App() {
       <div className="page-wrapper">
         <section className="date-map">
           <header className="hero">
-                      <h1>Tracing Our Binondo Date</h1>
+          <h1>Tracing Our Binondo Date</h1>
           <div className="hero-details">
             <div className="detail-tile">
               <strong>📅 February 9, 2026 · 3:00 PM — 7:00 PM</strong>
