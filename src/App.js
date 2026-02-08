@@ -8,7 +8,7 @@ function App() {
       title: 'Binondo Church',
       time: '3:00 PM – 3:15 PM',
       activity: 'Pray together',
-      image: '/images/Binondo.jpg',
+      image: '/images/binondo.jpg',
     },
     {
       title: 'Kokee Bakery',
